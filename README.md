@@ -13,7 +13,7 @@
 - 📫 Feel free to reach me out **dantevilchez860@gmail.com**
 
 <br>
-<h2 align="left">Tecnologías y Herramientas 🛠️</h2>
+<h2 align="left">Technologies and Tools 🛠️</h2>
 
 <div align="center">
   <!-- Frontend -->
